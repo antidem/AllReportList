@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportList", "ReportList\ReportList.csproj", "{B06FFD68-B82C-420F-B270-D62C4FB3165D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFReportList", "..\WCFReportList\WCFReportList\WCFReportList.csproj", "{2D760B02-DCA5-4181-BF58-D3BBC4085BE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFReportList", "WCFReportList\WCFReportList.csproj", "{2D760B02-DCA5-4181-BF58-D3BBC4085BE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
